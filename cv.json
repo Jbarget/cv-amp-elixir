@@ -1,0 +1,63 @@
+{
+  "title": "Justen's CV",
+  "basic": {
+    "first_name": "Justen",
+    "last_name": "Barget",
+    "image": "https://avatars1.githubusercontent.com/u/11725595?v=4&u=223c17306393cf8040ab76345ad8666c99360295&s=400",
+    "intro": "I’m Justen, an Elixir and Javascript developer based in London but happy to work remotely. I love all things code, education, design,
+              travelling and languages. I am a mentor for the <a href='http://www.foundersandcoders.com' target='_blank'>Founders and Coders</a> collective and a
+              member of the <a href='http://www.dwyl.com' target='_blank'>DWYL</a> freelancer community."
+  },
+  "skills": ["elixir", "phoenix", "node", "react", "redux", "hapi", "express", "AWS", "mongoDB", "redis"],
+  "education": [{
+    "name": "University of Bristol",
+    "details": "Chemistry, 1st Class Honours"
+    }],
+  "projects": [{
+    "name": "<a href='https://github.com/dwyl/tudo' target='_blank'>DWYL - Help Wanted</a>",
+    "details": "Dashboard to allow users to contribute easily to open source projects",
+    "stack": "Elixir, Phoenix, Taychons, Postgres"
+  }, {
+    "name": "<a href='https://github.com/jbarget' target='_blank'>CvAmp</a>",
+    "details": "A JSON cv builder that produces mobile-first valid AMP HTML, used to build this CV",
+    "stack": "Elixir, Taychons"
+  }, {
+    "name": "<a href='https://www.authored.io' target='_blank'>Authored.io</a>",
+    "details": "A platform to allow journalists to create, curate and deliver content easily",
+    "stack": "Express, React, Redux"
+  }, {
+    "name": "<a href='https://dni.authored.io' target='_blank'>Authored DNI</a>",
+    "details": "Google funded research project into delivering feedback via notifications to improve workflow",
+    "stack": "AWS Lambda, Express, React"
+  }, {
+    "name": "<a href='https://www.odysseon.com' target='_blank'>Odysseon</a>",
+    "details": "Adventure travel platform connecting guides and travellers",
+    "stack": "Express, React, Alt"
+  }
+],
+  "work": [{
+    "company": "DWYL",
+    "from_to": "Nov 2016 - Feb 2017",
+    "details": "Full stack developer working on multiple projects"
+  }, {
+    "company": "Authored",
+    "from_to": "June 2016 - present",
+    "details": "Full stack developer working across 2 projects"
+  }
+  ],
+  "extra_curricular": [
+    "Mentoring: Helped set up and mentor at Founders and Coders Nazareth for the first cohort",
+    "Languages: English, Spanish",
+    "Cooking: I enjoy cooking a lot"
+  ],
+  "references": [{
+    "name": "<a href='https://github.com/sofer' target='_blank'>Dan Sofer</a>",
+    "comment": "Justen, is a first-class developer with a first-class attitude. I can recommend him without reservation."
+  },{
+    "name": "<a href='https://github.com/nelsonic' target='_blank'>Nelson Correia</a>",
+    "comment": "Words that comes to mind when I think of Justen: Genuine, natural, talented, can-do, focussed, fast-learner, teacher, humble, patience, quiet, humorous, reliable, punctual, well-spoken, empathetic, caring, team-player, leader.
+    </br>
+    He does not fit any text-book 'personality type'. He is well-rounded, grounded and determined and turns his hand to anything in his pursuit of understanding and overcoming a challenge.
+    He is joy to work with and an asset to any team; I would be delighted to work/learn with him again!"
+  }]
+}
