@@ -1,6 +1,6 @@
-defmodule CvAmpJsonTest do
+defmodule CvAmpTest do
   use ExUnit.Case
-  doctest CvAmpJson
+  doctest CvAmp
 
   test "the truth" do
     assert 1 + 1 == 2
