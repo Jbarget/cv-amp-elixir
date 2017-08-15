@@ -63,7 +63,7 @@ defmodule Amp.Template do
 
     html <>
     """
-      <div'>
+      <div>
         <h2 class='ttu fw4 tc'>Work</h2>
         <div class='flex flex-wrap justify-center'>
     """ <> work_html <> "</div>"
@@ -86,7 +86,7 @@ defmodule Amp.Template do
 
     html <>
     """
-      <div'>
+      <div>
         <h2 class='ttu fw4 tc mb4'>Projects</h2>
         <div class='flex flex-wrap justify-center'>
     """ <> projects_html <> "</div></div>"
