@@ -18,7 +18,7 @@
     "details": "Dashboard to allow users to contribute easily to open source projects",
     "stack": "Elixir, Phoenix, Taychons, Postgres"
   }, {
-    "name": "<a href='https://github.com/jbarget' target='_blank'>CvAmp</a>",
+    "name": "<a href='https://github.com/jbarget/cv-amp' target='_blank'>CvAmp</a>",
     "details": "A JSON cv builder that produces mobile-first valid AMP HTML, used to build this CV",
     "stack": "Elixir, Taychons"
   }, {
