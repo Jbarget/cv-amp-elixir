@@ -17,7 +17,7 @@ defmodule CvAmp do
   end
 
   def write_file(amp_html) do
-    File.write!("./cv.html", amp_html)
+    File.write!("./index.html", amp_html)
   end
 
   def read_JSON(file) do
