@@ -36,15 +36,15 @@
   }
 ],
   "work": [{
-    "company": "Authored",
+    "company": "<a href='https://www.authored.io' target='_blank'>Authored</a>",
     "from_to": "June 2016 - present",
     "details": "Full stack developer working across 2 projects"
   }, {
-    "company": "DWYL",
+    "company": "<a href='https://www.dwyl.com' target='_blank'>DWYL</a>",
     "from_to": "Nov 2016 - present",
     "details": "Full stack developer working on multiple projects"
   }, {
-    "company": "No Scrubs",
+    "company": "<a href='https://www.facebook.com/MrNoScrubs/' target='_blank'>No Scrubs</a>",
     "from_to": "Nov 2011 - June 2015",
     "details": "Founded an events company that ran in 4 cities around the UK"
   }
