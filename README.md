@@ -1,4 +1,4 @@
-# CVamp
+# CvAmp
 
 Generate your CV/resume just using a JSON file...
 

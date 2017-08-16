@@ -4,8 +4,8 @@
     "first_name": "Justen",
     "last_name": "Barget",
     "image": "https://avatars1.githubusercontent.com/u/11725595?v=4&u=223c17306393cf8040ab76345ad8666c99360295&s=400",
-    "intro": "I’m Justen, an Elixir and Javascript developer based in London but happy to work remotely. I love all things code, education, design,
-              travelling and languages. I am a mentor for the <a href='http://www.foundersandcoders.com' target='_blank'>Founders and Coders</a> collective and a
+    "intro": "I’m Justen, an Elixir and Javascript developer based in London (happy to work remotely). I love all things code, education, design,
+              travelling and languages. I am a mentor at the <a href='http://www.foundersandcoders.com' target='_blank'>Founders & Coders</a> collective and a
               member of the <a href='http://www.dwyl.com' target='_blank'>DWYL</a> freelancer community."
   },
   "skills": ["elixir", "phoenix", "node", "react", "redux", "hapi", "express", "AWS", "mongoDB", "redis"],
@@ -26,8 +26,8 @@
     "details": "A platform to allow journalists to create, curate and deliver content easily",
     "stack": "Express, React, Redux"
   }, {
-    "name": "<a href='https://dni.authored.io' target='_blank'>Authored DNI</a>",
-    "details": "Google funded research project into delivering feedback via notifications to improve workflow",
+    "name": "<a href='http://dni.authored.io' target='_blank'>Authored DNI</a>",
+    "details": "Google funded research project, in conjunction with The Financial Times, into delivering feedback via notifications to improve workflow",
     "stack": "AWS Lambda, Express, React"
   }, {
     "name": "<a href='https://www.odysseon.com' target='_blank'>Odysseon</a>",
@@ -36,17 +36,21 @@
   }
 ],
   "work": [{
-    "company": "DWYL",
-    "from_to": "Nov 2016 - Feb 2017",
-    "details": "Full stack developer working on multiple projects"
-  }, {
     "company": "Authored",
     "from_to": "June 2016 - present",
     "details": "Full stack developer working across 2 projects"
+  }, {
+    "company": "DWYL",
+    "from_to": "Nov 2016 - present",
+    "details": "Full stack developer working on multiple projects"
+  }, {
+    "company": "No Scrubs",
+    "from_to": "Nov 2011 - June 2015",
+    "details": "Founded an events company that ran in 4 cities around the UK"
   }
   ],
   "extra_curricular": [
-    "Mentoring: Helped set up and mentor at Founders and Coders Nazareth for the first cohort",
+    "Mentoring: Helped set up and mentor Founders & Coders Nazareth",
     "Languages: English, Spanish",
     "Cooking: I enjoy cooking a lot"
   ],
