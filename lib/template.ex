@@ -20,7 +20,7 @@ defmodule Amp.Template do
       <div class="inline-flex items-center">
         <amp-img class="br-100" width="150" height="150" src="#{data["image"]}" alt="#{data["first_name"]} #{data["last_name"]} profile image">
         <noscript>
-          <img class="br-100" src="#{data["image"]}" width="264" height="195" />
+          <img class="br-100" src="#{data["image"]}" width="150" height="150" />
         </noscript>
         </amp-img>
         <h1 class="ml3 f3 fw3">#{data["first_name"]} #{data["last_name"]} </h1>
