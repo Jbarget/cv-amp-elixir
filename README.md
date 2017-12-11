@@ -10,7 +10,7 @@ Anything at all (suggestions, issues), please leave an [issue](https://github.co
 **NB Prerequisite:** Elixir already installed
 
 1. Clone the repo: `git clone `
-2. Move into the CvAmp directory: `cd CvAmp`
+2. Move into the cv-amp directory: `cd cv-amp`
 3. Get the dependencies: `mix deps.get`
 4. Edit the values in`cv.json` to your info
 5. Open the elixir shell: `iex -S mix`
