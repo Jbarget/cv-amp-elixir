@@ -15,5 +15,5 @@ Anything at all (suggestions, issues), please leave an [issue](https://github.co
 4. Edit the values in`cv.json` to your info
 5. Open the elixir shell: `iex -S mix`
 6. Run the programme on your JSON file: `CvAmp.main "cv.json"`
-7. You should now have a `cv.html` in the root of the directory :tada::tada::tada:
+7. You should now have a `index.html` in the root of the directory :tada::tada::tada:
 8. Star the repo :star:
