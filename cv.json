@@ -14,11 +14,11 @@
     "details": "Chemistry, 1st Class Honours"
     }],
   "projects": [{
-    "name": "<a href='https://github.com/dwyl/tudo' target='_blank'>DWYL - Help Wanted</a>",
+    "name": "<a class='underline' href='https://github.com/dwyl/tudo' target='_blank'>DWYL - Help Wanted</a>",
     "details": "Dashboard to allow users to contribute easily to open source projects",
     "stack": "Elixir, Phoenix, Taychons, Postgres"
   }, {
-    "name": "<a href='https://github.com/jbarget/cv-amp' target='_blank'>CvAmp</a>",
+    "name": "<a class='underline' href='https://github.com/jbarget/cv-amp' target='_blank'>CvAmp</a>",
     "details": "A JSON cv builder that produces mobile-first valid AMP HTML, used to build this CV",
     "stack": "Elixir, Taychons"
   }, {
@@ -26,15 +26,15 @@
     "details": "A high throughput API to provide consumers with articles' tagging metrics (page views for a tag, trending tags, etc...)",
     "stack": "AWS Lambda, Elasticsearch, AWS API Gateway"
   }, {
-    "name": "<a href='https://www.authored.io' target='_blank'>Authored.io</a>",
+    "name": "<a class='underline' href='https://www.authored.io' target='_blank'>Authored.io</a>",
     "details": "A platform to allow journalists to create, curate and deliver content easily",
     "stack": "Express, React, Redux"
   }, {
-    "name": "<a href='http://dni.authored.io' target='_blank'>Authored DNI</a>",
+    "name": "<a class='underline' href='http://dni.authored.io' target='_blank'>Authored DNI</a>",
     "details": "Google funded research project, in conjunction with The Financial Times, into delivering feedback via notifications to improve workflow",
     "stack": "AWS Lambda, Express, React, AWS API Gateway"
   }, {
-    "name": "<a href='https://www.odysseon.com' target='_blank'>Odysseon</a>",
+    "name": "<a class='underline' href='https://www.odysseon.com' target='_blank'>Odysseon</a>",
     "details": "Adventure travel platform connecting guides and travellers",
     "stack": "Express, React, Alt"
   }

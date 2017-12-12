@@ -75,7 +75,7 @@ defmodule Amp.Template do
       """
       <div class="w-50-ns w-100 min-vh-22 tc">
         <div>
-          <p class="di-l underline">#{project["name"]}:</p>
+          <p class="di-l">#{project["name"]}:</p>
           <p class=" di-l black-40 no-underline"> #{project["stack"]}</p>
         </div>
         <p class="pl2 pr2">#{project["details"]}</p>
