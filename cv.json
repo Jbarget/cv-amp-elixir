@@ -22,13 +22,17 @@
     "details": "A JSON cv builder that produces mobile-first valid AMP HTML, used to build this CV",
     "stack": "Elixir, Taychons"
   }, {
+    "name": "Financial Times - Tag Metrics API",
+    "details": "A high throughput API to provide consumers with articles' tagging metrics (page views for a tag, trending tags, etc...)",
+    "stack": "AWS Lambda, Elasticsearch, AWS API Gateway"
+  }, {
     "name": "<a href='https://www.authored.io' target='_blank'>Authored.io</a>",
     "details": "A platform to allow journalists to create, curate and deliver content easily",
     "stack": "Express, React, Redux"
   }, {
     "name": "<a href='http://dni.authored.io' target='_blank'>Authored DNI</a>",
     "details": "Google funded research project, in conjunction with The Financial Times, into delivering feedback via notifications to improve workflow",
-    "stack": "AWS Lambda, Express, React"
+    "stack": "AWS Lambda, Express, React, AWS API Gateway"
   }, {
     "name": "<a href='https://www.odysseon.com' target='_blank'>Odysseon</a>",
     "details": "Adventure travel platform connecting guides and travellers",
