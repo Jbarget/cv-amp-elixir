@@ -4,11 +4,11 @@
     "first_name": "Justen",
     "last_name": "Barget",
     "image": "https://avatars1.githubusercontent.com/u/11725595?v=4&u=223c17306393cf8040ab76345ad8666c99360295&s=400",
-    "intro": "I’m Justen, an Elixir and Javascript developer based in London (happy to work remotely). I love all things code, education, design,
+    "intro": "I’m Justen, a Javascript and Elixir developer based in London (happy to work remotely). I love all things code, education, design,
               travelling and languages. I am a mentor at the <a href='http://www.foundersandcoders.com' target='_blank'>Founders & Coders</a> collective and a
               member of the <a href='http://www.dwyl.com' target='_blank'>DWYL</a> freelancer community."
   },
-  "skills": ["elixir", "phoenix", "node", "react", "redux", "hapi", "express", "AWS", "mongoDB", "redis"],
+  "skills": [ "node", "elixir", "phoenix", "react", "redux", "hapi", "express", "AWS", "mongoDB", "redis"],
   "education": [{
     "name": "University of Bristol",
     "details": "Chemistry, 1st Class Honours"
@@ -18,25 +18,25 @@
     "details": "Dashboard to allow users to contribute easily to open source projects",
     "stack": "Elixir, Phoenix, Taychons, Postgres"
   }, {
+    "name": "<a class='underline' href='https://www.authored.io' target='_blank'>Authored.io</a>",
+    "details": "A platform to allow journalists to create, curate and deliver content easily",
+    "stack": "Node (Express), React, Redux"
+  }, {
+      "name": "Financial Times - Tag Metrics API",
+      "details": "A high throughput API to provide consumers with articles' tagging metrics (page views for a tag, trending tags, etc...)",
+      "stack": "AWS Lambda, Elasticsearch, AWS API Gateway"
+  }, {
     "name": "<a class='underline' href='https://github.com/jbarget/cv-amp' target='_blank'>CvAmp</a>",
     "details": "A JSON cv builder that produces mobile-first valid AMP HTML, used to build this CV",
     "stack": "Elixir, Taychons"
   }, {
-    "name": "Financial Times - Tag Metrics API",
-    "details": "A high throughput API to provide consumers with articles' tagging metrics (page views for a tag, trending tags, etc...)",
-    "stack": "AWS Lambda, Elasticsearch, AWS API Gateway"
-  }, {
-    "name": "<a class='underline' href='https://www.authored.io' target='_blank'>Authored.io</a>",
-    "details": "A platform to allow journalists to create, curate and deliver content easily",
-    "stack": "Express, React, Redux"
-  }, {
     "name": "<a class='underline' href='http://dni.authored.io' target='_blank'>Authored DNI</a>",
     "details": "Google funded research project, in conjunction with The Financial Times, into delivering feedback via notifications to improve workflow",
-    "stack": "AWS Lambda, Express, React, AWS API Gateway"
+    "stack": "Node (Express), AWS Lambda, React, AWS API Gateway"
   }, {
     "name": "<a class='underline' href='https://www.odysseon.com' target='_blank'>Odysseon</a>",
     "details": "Adventure travel platform connecting guides and travellers",
-    "stack": "Express, React, Alt"
+    "stack": "Node (Express), React, Alt"
   }
 ],
   "work": [{
