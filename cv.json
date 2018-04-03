@@ -22,9 +22,9 @@
     "details": "A platform to allow journalists to create, curate and deliver content easily",
     "stack": "Node (Express), React, Redux"
   }, {
-      "name": "Financial Times - Tag Metrics API",
-      "details": "A high throughput API to provide consumers with articles' tagging metrics (page views for a tag, trending tags, etc...)",
-      "stack": "AWS Lambda, Elasticsearch, AWS API Gateway"
+    "name": "Financial Times - Tag Metrics API",
+    "details": "A high throughput API to provide consumers with articles' tagging metrics (page views for a tag, trending tags, etc...)",
+    "stack": "AWS Lambda, Elasticsearch, AWS API Gateway"
   }, {
     "name": "<a class='underline' href='https://github.com/jbarget/cv-amp' target='_blank'>CvAmp</a>",
     "details": "A JSON cv builder that produces mobile-first valid AMP HTML, used to build this CV",
@@ -40,8 +40,12 @@
   }
 ],
   "work": [{
+    "company": "<a href='https://www.emoticast.com' target='_blank'>Emoticast</a>",
+    "from_to": "Jan 2018 - present",
+    "details": "Full stack developer working mainly on frontend"
+  }, {
     "company": "<a href='https://www.authored.io' target='_blank'>Authored</a>",
-    "from_to": "June 2016 - present",
+    "from_to": "June 2016 - Jan 2018",
     "details": "Full stack developer working across 2 projects"
   }, {
     "company": "<a href='https://www.dwyl.com' target='_blank'>DWYL</a>",
